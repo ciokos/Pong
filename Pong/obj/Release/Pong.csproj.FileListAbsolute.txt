@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\Pong\Pong\bin\Release\Pong.exe.config
+C:\Users\hp\source\repos\Pong\Pong\bin\Release\Pong.exe
+C:\Users\hp\source\repos\Pong\Pong\bin\Release\Pong.pdb
+C:\Users\hp\source\repos\Pong\Pong\obj\Release\Pong.Form1.resources
+C:\Users\hp\source\repos\Pong\Pong\obj\Release\Pong.Properties.Resources.resources
+C:\Users\hp\source\repos\Pong\Pong\obj\Release\Pong.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Pong\Pong\obj\Release\Pong.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Pong\Pong\obj\Release\Pong.exe
+C:\Users\hp\source\repos\Pong\Pong\obj\Release\Pong.pdb
